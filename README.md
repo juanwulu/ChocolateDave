@@ -29,7 +29,7 @@
 
 I'm Juanwu, a student majored in Transportation Engineering at UC Berkeley.
 
-My research interests are automation, control, and applications of artificial intelligent in Traffic operations and optimization.
+My research interests are *automation, control, and applications of artificial intelligent in traffic operations and optimization*.
 
 ---
 
