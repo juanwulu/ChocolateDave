@@ -19,9 +19,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div id="theme" align="center">
-  <img src="https://media1.giphy.com/media/7zleA6kosCcNp3PPKb/giphy.gif?cid=ecf05e47ex56tmh18r0sjea9ffmkyogdrdl8lfowvhv3ci3k&rid=giphy.gif&ct=g" alt=""/>
-</div>
+<center>
+<iframe src="https://giphy.com/embed/7zleA6kosCcNp3PPKb" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</center>
 
 ---
 
@@ -36,6 +36,7 @@ My research interests are *automation, control, and applications of artificial i
 ### :hammer_and_wrench: Languages and Tools
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
