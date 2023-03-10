@@ -1,29 +1,39 @@
 <div id="header" align="center">
-<img src="./img/logo.jpg" width="100"/>
+<img src="./img/logo.png" width="250"/>
 </div>
 
 <div id="badges" align="center">
 <a href="www.linkedin.com/in/juanwu-lu">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <a/>
-<a href="mailto:juanwu_lu@berkeley.edu">
+<a href="https://www.researchgate.net/profile/Juanwu-Lu">
+<img src="https://img.shields.io/badge/ResearchGate-darkgreen?style=for-the-badge&logo=researchgate&logoColor=white" alt="LinkedIn Badge"/>
+<a/>
+<!-- <a href="mailto:juanwu_lu@berkeley.edu">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+<a/> -->
+<a href="mailto:juanwu@purdue.edu">
+<img src="https://img.shields.io/badge/outlook-blue?style=for-the-badge&logo=microsoft&logoColor=white" alt="Purdue Career Badge"/>
 <a/>
 
 </div>
 
 <h1 align="center">
-Hello World
+Hello Internet
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<h1 align="center">
+<img src="https://images.unsplash.com/photo-1511415506101-0ddeeac2c17c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1333&q=80" width="850px"/>
 </h1>
 
 ---
 
 ### :man_technologist: About Me
 
-I'm Juanwu, a student majored in Transportation Engineering at UC Berkeley.
+I'm Juanwu, a Ph.D. Student at Purdue University. You may know me by the name David.
 
-My research interests are *Data-driven Methods in traffic microsimulation and control*, *mixed traffic system*, and *autonomous vehicles*.
+My research focuses on *generalizable*, *interpretable*, and *robust data-driven modeling for microscopic traffic phenomena*.
 
 ---
 
@@ -47,8 +57,8 @@ My research interests are *Data-driven Methods in traffic microsimulation and co
 
 ### :fire: My Stats
 
-![Juanwu's GitHub stats](https://github-readme-stats-pied-theta.vercel.app/api?username=ChocolateDave&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats-pied-theta.vercel.app/api/top-langs/?username=ChocolateDave&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Juanwu's GitHub stats](https://github-readme-stats-pied-theta.vercel.app/api?username=ChocolateDave&show_icons=true&theme=tokyonight&custom_title=My%20Github%20Stats)
+[![Top Langs](https://github-readme-stats-pied-theta.vercel.app/api/top-langs/?username=ChocolateDave&hide=Jupyter%20Notebook&theme=tokyonight&exclude_repo=cs285_homework_fall2022&custom_title=Language%20Usage)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--### Hi there 👋-->
 
