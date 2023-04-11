@@ -31,9 +31,11 @@ Hello Internet
 
 ### :man_technologist: About Me
 
+```text
 I'm Juanwu, a Ph.D. Student at Purdue University. You may know me by the name David.
 
 My research focuses on *generalizable*, *interpretable*, and *robust data-driven modeling for microscopic traffic phenomena*.
+```
 
 ---
 
